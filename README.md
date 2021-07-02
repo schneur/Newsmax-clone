@@ -1,1 +1,1 @@
-# Newsmax-clone
+# Newsweek-clone
